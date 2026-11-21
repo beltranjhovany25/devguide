@@ -237,6 +237,4 @@ replace ``html`` above with the desired builder ``name``.
 .. _docutils: https://docutils.sourceforge.io/
 .. _Sphinx: https://www.sphinx-doc.org/
 .. _Sphinx builder: https://www.sphinx-doc.org/en/master/usage/builders/index.html
-.. _Sphinx Lint: https://github.com/sphinx-contrib/sphinx-lint
-.. _venv-activate: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#activating-a-virtual-environment
-.. _venv-create: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/#creating-a-virtual-environment
+jhovany Elian Beltran 
